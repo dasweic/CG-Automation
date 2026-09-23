@@ -4,6 +4,7 @@ import time
 wb = load_workbook("data.xlsx")
 ws = wb.active
 
+aasda = "hie, my name is dasweic"
 def access(scene,object):   #mp3 or img
     '''
     x = scene no.
